@@ -1,0 +1,58 @@
+
+<div id="templatemo_content">
+
+	<div class="product_box margin_r40">
+        <div class="thumb_wrapper"><a href="work_detail.html"><img src="/prpraktikum/images/templatemo_image_01.jpg" alt="image 1" /></a></div>
+        <h3><?php echo anchor('welcome/a','Kim Ung-Yong')?></h3>
+        <p>Manusia Ber-IQ Tertinggi di Dunia</p>
+    </div>
+    
+    <div class="product_box margin_r40">
+        <div class="thumb_wrapper"><a href="work_detail.html"><img src="/prpraktikum/images/templatemo_image_02.jpg" alt="image 2" /></a></div>
+        <h3><?php echo anchor('welcome/b','Gregory Smith')?></h3>
+        <p>Mendapatkan Penghargaan Nobel Pada Usia 12</p>
+    </div>
+    
+    <div class="product_box margin_r40">
+        <div class="thumb_wrapper"><a href="work_detail.html"><img src="/prpraktikum/images/templatemo_image_03.jpg" alt="image 3" /></a></div>
+        <h3><?php echo anchor('welcome/c','Akrit Jaswal')?></h3>
+        <p>Dokter Bedah usia 7 tahun</p><br/>
+    </div>
+    
+	<div class="product_box">
+        <div class="thumb_wrapper"><a href="work_detail.html"><img src="/prpraktikum/images/templatemo_image_04.jpg" alt="image 4" /></a></div>
+        <h3><?php echo anchor('welcome/d','Cleopatra Stratan')?></h3>
+        <p>Bocah Penyanyi Berusia 3 Tahun dengan Gaji 1000 euro per lagu</p>
+    </div>
+    
+	<div class="cleaner"></div>
+    
+  	<div class="product_box margin_r40">
+        <div class="thumb_wrapper"><a href="work_detail.html"><img src="/prpraktikum/images/templatemo_image_05.jpg" alt="image 5" /></a></div>
+        <h3><?php echo anchor('welcome/e','Aelita Andre')?></h3>
+        <p>Pelukis di usia 2 tahun</p><br/>
+    </div>
+    
+    <div class="product_box margin_r40">
+	    <div class="thumb_wrapper"><a href="work_detail.html"><img src="/prpraktikum/images/templatemo_image_06.jpg" alt="image 6" /></a></div>
+        <h3><?php echo anchor('welcome/f','Michael Kevin Keaulus')?></h3>
+    	<p>Kuliah pada umur 10 tahun</p><br/>
+    </div>
+    
+    <div class="product_box margin_r40">
+         <div class="thumb_wrapper"><a href="work_detail.html"><img src="/prpraktikum/images/templatemo_image_07.jpg" alt="image 7" /></a></div>
+         <h3><?php echo anchor('welcome/g','Saul Aaron Kripke')?></h3>
+	     <p>Mengajar Havard saat Masih Duduk di Bangku SMA</p>
+    </div>
+    
+	<div class="product_box">
+         <div class="thumb_wrapper"><a href="work_detail.html"><img src="/prpraktikum/images/templatemo_image_08.jpg" alt="image 8" /></a></div>
+         <h3><?php echo anchor('welcome/h','Willie Moscon')?>i</h3>
+	     <p>Pemain Bilyard Professional pada usia 6</p>
+    </div>
+    
+    <div class="cleaner_h20"></div>
+
+	<div class="cleaner"></div>
+</div> <!-- end of templatemo_content -->
+<div id="templatemo_content_bottom"></div>
